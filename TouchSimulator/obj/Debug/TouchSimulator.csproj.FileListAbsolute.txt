@@ -1,0 +1,39 @@
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\TouchSimulator.csprojResolveAssemblyReference.cache
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\MainWindow.baml
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\App.g.cs
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\TouchSimulator.csproj.GenerateResource.Cache
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\Users\gianpaolo\documents\visual studio 2013\Projects\App19\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\bin\Debug\WpfApplication1.exe.config
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\WpfApplication1.exe
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\WpfApplication1.pdb
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\bin\Debug\WpfApplication1.exe
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\bin\Debug\WpfApplication1.pdb
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\TouchSimulator.csprojResolveAssemblyReference.cache
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\MainWindow.baml
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\App.g.cs
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\WpfApplication1.g.resources
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\GianPaolo\SkyDrive\GianPaolo\Sviluppo\1 WinRT\Prototipi\TouchSimulator\TouchSimulator\obj\Debug\TouchSimulator.csproj.GenerateResource.Cache
+C:\Users\gp\Desktop\pppp\TouchSimulator\bin\Debug\WpfApplication1.exe.config
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\WpfApplication1.exe
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\WpfApplication1.pdb
+C:\Users\gp\Desktop\pppp\TouchSimulator\bin\Debug\WpfApplication1.exe
+C:\Users\gp\Desktop\pppp\TouchSimulator\bin\Debug\WpfApplication1.pdb
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\TouchSimulator.csprojResolveAssemblyReference.cache
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\MainWindow.baml
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\App.g.cs
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\WpfApplication1.g.resources
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\gp\Desktop\pppp\TouchSimulator\obj\Debug\TouchSimulator.csproj.GenerateResource.Cache
